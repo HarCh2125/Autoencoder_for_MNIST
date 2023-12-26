@@ -1,1 +1,1 @@
-# Autoencoder_for_MNIST
+# Autoencoder for MNIST
